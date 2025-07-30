@@ -7,6 +7,8 @@
     "name": "Vennie",
     "tagline": "Adds a command (/vennie) that allows you to send images of Vennie from votd.vennie.moe :)",
     "authors": ["omardotdev"],
-    "source": "https://github.com/omardotdev/moonlight-plugins"
-  }
+    "source": "https://github.com/omardotdev/moonlight-plugins",
+    "tags": ["chat", "commands", "fun"]
+  },
+  "dependencies": ["commands"]
 }
