@@ -1,0 +1,12 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "Vennie",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "Vennie",
+    "tagline": "Adds a command (/vennie) that allows you to send images of Vennie from votd.vennie.moe :)",
+    "authors": ["omardotdev"],
+    "source": "https://github.com/omardotdev/moonlight-plugins"
+  }
+}
